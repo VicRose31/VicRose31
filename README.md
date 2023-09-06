@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! I am Victoria, a new software developer working with Tech Elevator to acquire skills necessary for advancing in the tech field and for creating useful applications to utilize in my own life. 
 
 <!--
 **VicRose31/VicRose31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
